@@ -1,1 +1,3 @@
-# ai
+# AI 
+
+AI study notebook
