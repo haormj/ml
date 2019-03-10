@@ -1,3 +1,3 @@
-# AI 
+# ML
 
-AI study notebook
+Machine Learning notebook
