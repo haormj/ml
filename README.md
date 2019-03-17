@@ -6,6 +6,24 @@
 
 就好比如果没有前人,就不会有计算机,但是计算机是必然会出现的产物,如果我们这一代才开始研究计算机,那么社会的发展不就滞后了吗?这就是传承的意义所在,而且后人不一定都需要知道计算机的原理,但是照样可以使用计算机,就好比用计算机打游戏,了解原理和使用需要的时间和精力都是不同的,不同的侧重点也就意味着不同的选择
 
+## 距离和相似性度量
+
+### 距离
+
+1. [欧几里得距离](https://zh.wikipedia.org/zh-hans/%E6%AC%A7%E5%87%A0%E9%87%8C%E5%BE%97%E8%B7%9D%E7%A6%BB)
+2. [minkowski distance](https://zh.wikipedia.org/wiki/%E6%98%8E%E6%B0%8F%E8%B7%9D%E7%A6%BB)
+3. [马氏距离](https://zh.wikipedia.org/wiki/%E9%A9%AC%E5%93%88%E6%8B%89%E8%AF%BA%E6%AF%94%E6%96%AF%E8%B7%9D%E7%A6%BB)
+4. [汉明距离](https://zh.wikipedia.org/wiki/%E6%B1%89%E6%98%8E%E8%B7%9D%E7%A6%BB)
+5. [余弦相似性](https://zh.wikipedia.org/wiki/%E4%BD%99%E5%BC%A6%E7%9B%B8%E4%BC%BC%E6%80%A7)
+6. [编辑距离](https://zh.wikipedia.org/wiki/%E7%B7%A8%E8%BC%AF%E8%B7%9D%E9%9B%A2)
+7. [雅卡尔距离](https://zh.wikipedia.org/wiki/%E9%9B%85%E5%8D%A1%E5%B0%94%E6%8C%87%E6%95%B0)
+
+### 相似性
+
+1. [KL散度](https://zh.wikipedia.org/wiki/%E7%9B%B8%E5%AF%B9%E7%86%B5)
+2. [信息熵](https://zh.wikipedia.org/wiki/%E7%86%B5_(%E4%BF%A1%E6%81%AF%E8%AE%BA))
+
+
 ## 分类和回归
 
 分类:
@@ -41,7 +59,38 @@
 ## 决策树
 
 1. 熵, 信息论
-2. 树, 训练的过程就是构建数,分类的过程就是搜索
+2. 树, 训练的过程就是构建树,分类的过程就是搜索
+
+
+## KNN
+
+1. 度量数据距离
+2. 邻居个数k选择
+3. 维度增加,过拟合风险增加,可通过降维和特征选择解决过拟合
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
