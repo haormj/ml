@@ -107,9 +107,20 @@
 1. 二次规划
 2. 核函数
 
+## 神经网络
+
+1. 线性组合
+2. 激活函数, 进行非线性变换
+3. 损失函数, 目标让损失函数最小, 梯度下降/反向传播
 
 
-
+## 参考
+1. [sklearn](https://scikit-learn.org/)
+2. [pandas](https://pandas.pydata.org/)
+3. [numpy](http://www.numpy.org/)
+4. [matplotlib](https://matplotlib.org/)
+5. [uci](http://archive.ics.uci.edu/ml/index.php)
+6. [playground tensorflow](http://playground.tensorflow.org)
 
 
 
