@@ -154,6 +154,7 @@ TensorFlow
 4. [matplotlib](https://matplotlib.org/)
 5. [uci](http://archive.ics.uci.edu/ml/index.php)
 6. [playground tensorflow](http://playground.tensorflow.org)
+7. [神经网络与深度学习](https://nndl.github.io/)
 
 
 
