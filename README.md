@@ -123,6 +123,13 @@
 2. dropout
 
 ### 卷积神经网络
+Convolutional Neural Network (CNN) 卷积神经网络 
+图像处理
+
+### 循环神经网络
+Recurrent Neural Network (RNN) 循环神经网络 
+自然语言处理
+
 
 ### 深度学习框架
 TensorFlow
