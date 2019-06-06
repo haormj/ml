@@ -103,3 +103,4 @@ venv.bak/
 # mypy
 .mypy_cache/
 svd/lena*
+07.Tensorflow/09.resource/model.h5
